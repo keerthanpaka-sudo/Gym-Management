@@ -1,0 +1,476 @@
+{"kind":"deck","id":"gym-project-review-expo","slideCount":16,"slideSize":{"width":1280,"height":720}}
+{"kind":"slide","slide":1,"id":"yublei"}
+{"kind":"slide","slide":2,"id":"eg3mk2"}
+{"kind":"slide","slide":3,"id":"2us5qc"}
+{"kind":"slide","slide":4,"id":"wg9ka6"}
+{"kind":"slide","slide":5,"id":"1ebcww"}
+{"kind":"slide","slide":6,"id":"sn2715"}
+{"kind":"slide","slide":7,"id":"p337pq"}
+{"kind":"slide","slide":8,"id":"gtv0u3"}
+{"kind":"slide","slide":9,"id":"8daye7"}
+{"kind":"slide","slide":10,"id":"6b1jzj"}
+{"kind":"slide","slide":11,"id":"qh0fbp"}
+{"kind":"slide","slide":12,"id":"ofje7j"}
+{"kind":"slide","slide":13,"id":"voc8q6"}
+{"kind":"slide","slide":14,"id":"a184p0"}
+{"kind":"slide","slide":15,"id":"jajcy3"}
+{"kind":"slide","slide":16,"id":"c0d6f7"}
+{"kind":"image","slide":1,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"3","role":"cover contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":1,"id":"4","role":"cover accent rule","shapeType":"rect","bbox":[64,86,7,455]}
+{"kind":"textbox","slide":1,"id":"5","role":"kicker","text":"PROJECT REVIEW + EXPO","textPreview":"PROJECT REVIEW + EXPO","textChars":21,"textLines":1,"bbox":[86,88,520,26]}
+{"kind":"textbox","slide":1,"id":"6","role":"cover title","text":"MERN Gym Management System","textPreview":"MERN Gym Management System","textChars":26,"textLines":1,"bbox":[82,130,785,184]}
+{"kind":"textbox","slide":1,"id":"7","role":"cover subtitle","text":"A full-stack fitness operations platform that combines administration, memberships, trainer workflows, payments, attendance, progress tracking, and community engagement in one application.","textPreview":"A full-stack fitness operations platform that combines administration, memberships, trainer workflows, payments, attendance, progress tracking, and community engagement in one appl","textChars":188,"textLines":1,"bbox":[86,326,610,86]}
+{"kind":"shape","slide":1,"id":"8","role":"cover moment panel","shapeType":"roundRect","bbox":[86,456,390,92]}
+{"kind":"textbox","slide":1,"id":"9","role":"cover moment","text":"From gym operations to member engagement in one MERN platform.","textPreview":"From gym operations to member engagement in one MERN platform.","textChars":62,"textLines":1,"bbox":[112,478,336,40]}
+{"kind":"textbox","slide":1,"id":"10","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":2,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":2,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":2,"id":"4","role":"header","text":"PROJECT OVERVIEW","textPreview":"PROJECT OVERVIEW","textChars":16,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":2,"id":"5","role":"header","text":"02 / 16","textPreview":"02 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":2,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":2,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":2,"id":"8","role":"title","text":"What the system delivers","textPreview":"What the system delivers","textChars":24,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":2,"id":"9","role":"subtitle","text":"The project is designed as a complete digital gym ecosystem for admins, trainers, and members rather than a single-purpose booking app.","textPreview":"The project is designed as a complete digital gym ecosystem for admins, trainers, and members rather than a single-purpose booking app.","textChars":135,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":2,"id":"10","role":"card panel: Platform Goal","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":2,"id":"11","role":"card accent: Platform Goal","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":2,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":2,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":2,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":2,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":2,"id":"16","role":"card label","text":"Platform Goal","textPreview":"Platform Goal","textChars":13,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"17","role":"card body: Platform Goal","text":"Digitize the core workflows of a\nmodern gym: onboarding, plan\nmanagement, trainer booking,\nclass participation, attendance,\nprogress monitoring, and member\ncommunication.","textPreview":"Digitize the core workflows of a | modern gym: onboarding, plan | management, trainer booking, | class participation, attendance, | progress monitoring, and member | communication.","textChars":170,"textLines":6,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":2,"id":"18","role":"card panel: Primary Users","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":2,"id":"19","role":"card accent: Primary Users","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":2,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":2,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":2,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":2,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":2,"id":"24","role":"card label","text":"Primary Users","textPreview":"Primary Users","textChars":13,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"25","role":"card body: Primary Users","text":"Admins manage users, plans, and\nprograms. Trainers guide members\nthrough sessions, classes, and\nplans. Members book services,\npay, track progress, and join the\ncommunity.","textPreview":"Admins manage users, plans, and | programs. Trainers guide members | through sessions, classes, and | plans. Members book services, | pay, track progress, and join the | community.","textChars":170,"textLines":6,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":2,"id":"26","role":"card panel: Review Value","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":2,"id":"27","role":"card accent: Review Value","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":2,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":2,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":2,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":2,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":2,"id":"32","role":"card label","text":"Review Value","textPreview":"Review Value","textChars":12,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":2,"id":"33","role":"card body: Review Value","text":"The project demonstrates\nfull-stack integration across UI\nrouting, API architecture,\nMongoDB data modeling,\nthird-party services, role-based\naccess, and real user journeys.","textPreview":"The project demonstrates | full-stack integration across UI | routing, API architecture, | MongoDB data modeling, | third-party services, role-based | access, and real user journey","textChars":172,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":2,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":3,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":3,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":3,"id":"4","role":"header","text":"PROJECT SCALE","textPreview":"PROJECT SCALE","textChars":13,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":3,"id":"5","role":"header","text":"03 / 16","textPreview":"03 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":3,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":3,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":3,"id":"8","role":"title","text":"Scope visible in the codebase","textPreview":"Scope visible in the codebase","textChars":29,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":3,"id":"9","role":"subtitle","text":"The repository already shows meaningful breadth across user types, backend modules, data structures, and frontend endpoint coverage.","textPreview":"The repository already shows meaningful breadth across user types, backend modules, data structures, and frontend endpoint coverage.","textChars":132,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":3,"id":"10","role":"metric panel: Role types built into auth and routing","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":3,"id":"11","role":"metric accent: Role types built into auth and routing","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":3,"id":"12","role":"metric value","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":3,"id":"13","role":"metric label","text":"Role types built into auth and routing","textPreview":"Role types built into auth and routing","textChars":38,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":3,"id":"14","role":"metric note","text":"admin, member, trainer","textPreview":"admin, member, trainer","textChars":22,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":3,"id":"15","role":"metric panel: Backend route groups mounted in Express","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":3,"id":"16","role":"metric accent: Backend route groups mounted in Express","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":3,"id":"17","role":"metric value","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":3,"id":"18","role":"metric label","text":"Backend route groups mounted in Express","textPreview":"Backend route groups mounted in Express","textChars":39,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":3,"id":"19","role":"metric note","text":"auth, programs, bookings, payments, attendance, media, nutrition, progress, live classes, community, workout plans, notifications, membership","textPreview":"auth, programs, bookings, payments, attendance, media, nutrition, progress, live classes, community, workout plans, notifications, membership","textChars":141,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":3,"id":"20","role":"metric panel: Centralized frontend API endpoints","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":3,"id":"21","role":"metric accent: Centralized frontend API endpoints","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":3,"id":"22","role":"metric value","text":"50+","textPreview":"50+","textChars":3,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":3,"id":"23","role":"metric label","text":"Centralized frontend API endpoints","textPreview":"Centralized frontend API endpoints","textChars":34,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":3,"id":"24","role":"metric note","text":"Defined in apiConfig.js for consistent client-server integration","textPreview":"Defined in apiConfig.js for consistent client-server integration","textChars":64,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"textbox","slide":3,"id":"25","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":4,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":4,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":4,"id":"4","role":"header","text":"PROBLEM + SOLUTION","textPreview":"PROBLEM + SOLUTION","textChars":18,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":4,"id":"5","role":"header","text":"04 / 16","textPreview":"04 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":4,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":4,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":4,"id":"8","role":"title","text":"Why this platform matters","textPreview":"Why this platform matters","textChars":25,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":4,"id":"9","role":"subtitle","text":"Traditional gym operations are often fragmented across registers, chats, spreadsheets, and separate payment or attendance systems.","textPreview":"Traditional gym operations are often fragmented across registers, chats, spreadsheets, and separate payment or attendance systems.","textChars":130,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":4,"id":"10","role":"card panel: Problem","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":4,"id":"11","role":"card accent: Problem","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":4,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":4,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":4,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":4,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":4,"id":"16","role":"card label","text":"Problem","textPreview":"Problem","textChars":7,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"17","role":"card body: Problem","text":"Gyms need to coordinate\nmemberships, trainers, classes,\nattendance, and user\ncommunication. Fragmented tools\ncreate errors, weak visibility,\nand poor member experience.","textPreview":"Gyms need to coordinate | memberships, trainers, classes, | attendance, and user | communication. Fragmented tools | create errors, weak visibility, | and poor member experience.","textChars":168,"textLines":6,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":4,"id":"18","role":"card panel: Solution","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":4,"id":"19","role":"card accent: Solution","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":4,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":4,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":4,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":4,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":4,"id":"24","role":"card label","text":"Solution","textPreview":"Solution","textChars":8,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"25","role":"card body: Solution","text":"This MERN system brings the\nworkflows into one architecture:\nReact handles the experience\nlayer, Express handles business\nlogic, MongoDB stores operational\ndata, and external services\nsupport payments and media.","textPreview":"This MERN system brings the | workflows into one architecture: | React handles the experience | layer, Express handles business | logic, MongoDB stores operational | data, and exte","textChars":211,"textLines":7,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":4,"id":"26","role":"card panel: Outcome","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":4,"id":"27","role":"card accent: Outcome","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":4,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":4,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":4,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":4,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":4,"id":"32","role":"card label","text":"Outcome","textPreview":"Outcome","textChars":7,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":4,"id":"33","role":"card body: Outcome","text":"The result is a platform where\nusers can move from account\ncreation to membership, booking,\nattendance, progress tracking,\nand community participation\nwithout leaving the system.","textPreview":"The result is a platform where | users can move from account | creation to membership, booking, | attendance, progress tracking, | and community participation | without leaving the","textChars":178,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":4,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":5,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":5,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":5,"id":"4","role":"header","text":"TECH STACK","textPreview":"TECH STACK","textChars":10,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":5,"id":"5","role":"header","text":"05 / 16","textPreview":"05 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":5,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":5,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":5,"id":"8","role":"title","text":"Technology stack and platform services","textPreview":"Technology stack and platform services","textChars":38,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":5,"id":"9","role":"subtitle","text":"The solution uses a classic MERN foundation and extends it with payments, media, validation, animation, and QR-based attendance support.","textPreview":"The solution uses a classic MERN foundation and extends it with payments, media, validation, animation, and QR-based attendance support.","textChars":136,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":5,"id":"10","role":"card panel: Frontend Layer","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":5,"id":"11","role":"card accent: Frontend Layer","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":5,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":5,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":5,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":5,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":5,"id":"16","role":"card label","text":"Frontend Layer","textPreview":"Frontend Layer","textChars":14,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"17","role":"card body: Frontend Layer","text":"React 18 powers the client app\nwith React Router for navigation,\nAxios for API calls, React\nToastify for notifications,\nFramer Motion for motion, and\nStripe Elements for payments.","textPreview":"React 18 powers the client app | with React Router for navigation, | Axios for API calls, React | Toastify for notifications, | Framer Motion for motion, and | Stripe Elements for ","textChars":179,"textLines":6,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":5,"id":"18","role":"card panel: Backend Layer","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":5,"id":"19","role":"card accent: Backend Layer","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":5,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":5,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":5,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":5,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":5,"id":"24","role":"card label","text":"Backend Layer","textPreview":"Backend Layer","textChars":13,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"25","role":"card body: Backend Layer","text":"Node.js and Express manage APIs,\nrequest handling, validation,\nauthentication, and integration\nlogic. MongoDB with Mongoose\nstores structured application\ndata.","textPreview":"Node.js and Express manage APIs, | request handling, validation, | authentication, and integration | logic. MongoDB with Mongoose | stores structured application | data.","textChars":159,"textLines":6,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":5,"id":"26","role":"card panel: Connected Services","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":5,"id":"27","role":"card accent: Connected Services","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":5,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":5,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":5,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":5,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":5,"id":"32","role":"card label","text":"Connected Services","textPreview":"Connected Services","textChars":18,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":5,"id":"33","role":"card body: Connected Services","text":"Stripe is used for payment flow,\nCloudinary and Multer support\nmedia upload, QRCode supports\nattendance, JWT secures auth, and\nenvironment variables manage\ndeployment-specific settings.","textPreview":"Stripe is used for payment flow, | Cloudinary and Multer support | media upload, QRCode supports | attendance, JWT secures auth, and | environment variables manage | deployment-spe","textChars":185,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":5,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":6,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":6,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":6,"id":"4","role":"header","text":"ARCHITECTURE SNAPSHOT","textPreview":"ARCHITECTURE SNAPSHOT","textChars":21,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":6,"id":"5","role":"header","text":"06 / 16","textPreview":"06 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":6,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":6,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":6,"id":"8","role":"title","text":"High-level system architecture","textPreview":"High-level system architecture","textChars":30,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":6,"id":"9","role":"subtitle","text":"The application follows a layered request-response model from role-based UI screens to API endpoints, database collections, and third-party integrations.","textPreview":"The application follows a layered request-response model from role-based UI screens to API endpoints, database collections, and third-party integrations.","textChars":153,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":6,"id":"10","role":"metric panel: Primary applications","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":6,"id":"11","role":"metric accent: Primary applications","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":6,"id":"12","role":"metric value","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":6,"id":"13","role":"metric label","text":"Primary applications","textPreview":"Primary applications","textChars":20,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":6,"id":"14","role":"metric note","text":"React frontend and Express backend","textPreview":"React frontend and Express backend","textChars":34,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":6,"id":"15","role":"metric panel: Core layers in the flow","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":6,"id":"16","role":"metric accent: Core layers in the flow","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":6,"id":"17","role":"metric value","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":6,"id":"18","role":"metric label","text":"Core layers in the flow","textPreview":"Core layers in the flow","textChars":23,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":6,"id":"19","role":"metric note","text":"UI, API routes, database models, external services","textPreview":"UI, API routes, database models, external services","textChars":50,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":6,"id":"20","role":"metric panel: Shared platform mission","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":6,"id":"21","role":"metric accent: Shared platform mission","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":6,"id":"22","role":"metric value","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":6,"id":"23","role":"metric label","text":"Shared platform mission","textPreview":"Shared platform mission","textChars":23,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":6,"id":"24","role":"metric note","text":"Single source of truth for gym operations and member engagement","textPreview":"Single source of truth for gym operations and member engagement","textChars":63,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"textbox","slide":6,"id":"25","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":7,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":7,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":7,"id":"4","role":"header","text":"CORE MODULES","textPreview":"CORE MODULES","textChars":12,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":7,"id":"5","role":"header","text":"07 / 16","textPreview":"07 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":7,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":7,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":7,"id":"8","role":"title","text":"Operational features delivered","textPreview":"Operational features delivered","textChars":30,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":7,"id":"9","role":"subtitle","text":"These modules support the day-to-day gym workflows that form the core of the system.","textPreview":"These modules support the day-to-day gym workflows that form the core of the system.","textChars":84,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":7,"id":"10","role":"card panel: Membership + Payments","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":7,"id":"11","role":"card accent: Membership + Payments","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":7,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":7,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":7,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":7,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":7,"id":"16","role":"card label","text":"Membership + Payments","textPreview":"Membership + Payments","textChars":21,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"17","role":"card body: Membership + Payments","text":"Members can browse plans, join or\ncancel memberships, and use\nStripe-backed payment flows.\nMembership data is also written\nback to the user profile with\nstart and end dates.","textPreview":"Members can browse plans, join or | cancel memberships, and use | Stripe-backed payment flows. | Membership data is also written | back to the user profile with | start and end dat","textChars":173,"textLines":6,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":7,"id":"18","role":"card panel: Bookings + Attendance","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":7,"id":"19","role":"card accent: Bookings + Attendance","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":7,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":7,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":7,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":7,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":7,"id":"24","role":"card label","text":"Bookings + Attendance","textPreview":"Bookings + Attendance","textChars":21,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"25","role":"card body: Bookings + Attendance","text":"Members can book trainer slots,\nwhile attendance is tracked\nthrough QR code generation,\ncheck-in, and checkout flows that\ncreate session records.","textPreview":"Members can book trainer slots, | while attendance is tracked | through QR code generation, | check-in, and checkout flows that | create session records.","textChars":145,"textLines":5,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":7,"id":"26","role":"card panel: Programs + Dashboards","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":7,"id":"27","role":"card accent: Programs + Dashboards","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":7,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":7,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":7,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":7,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":7,"id":"32","role":"card label","text":"Programs + Dashboards","textPreview":"Programs + Dashboards","textChars":21,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":7,"id":"33","role":"card body: Programs + Dashboards","text":"Fitness programs and\nrole-specific dashboards give\nadmins, trainers, and members\ntargeted access to the\ninformation and actions relevant\nto their workflow.","textPreview":"Fitness programs and | role-specific dashboards give | admins, trainers, and members | targeted access to the | information and actions relevant | to their workflow.","textChars":155,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":7,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":8,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":8,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":8,"id":"4","role":"header","text":"EXTENDED MODULES","textPreview":"EXTENDED MODULES","textChars":16,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":8,"id":"5","role":"header","text":"08 / 16","textPreview":"08 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":8,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":8,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":8,"id":"8","role":"title","text":"Engagement and wellness ecosystem","textPreview":"Engagement and wellness ecosystem","textChars":33,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":8,"id":"9","role":"subtitle","text":"Beyond operations, the project expands into member support, coaching, and platform engagement features.","textPreview":"Beyond operations, the project expands into member support, coaching, and platform engagement features.","textChars":103,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":8,"id":"10","role":"card panel: Nutrition + Workout Planning","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":8,"id":"11","role":"card accent: Nutrition + Workout Planning","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":8,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":8,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":8,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":8,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":8,"id":"16","role":"card label","text":"Nutrition + Workout Planning","textPreview":"Nutrition + Workout Planning","textChars":28,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":8,"id":"17","role":"card body: Nutrition + Workout Planning","text":"Nutrition plans include goals,\ncalories, macros, meal\nstructures, logs, and\nsupplements. Workout plans\ncapture exercises, sets, reps,\nfrequency, duration, and\ncompletion progress.","textPreview":"Nutrition plans include goals, | calories, macros, meal | structures, logs, and | supplements. Workout plans | capture exercises, sets, reps, | frequency, duration, and | completio","textChars":179,"textLines":7,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":8,"id":"18","role":"card panel: Progress + Live Classes","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":8,"id":"19","role":"card accent: Progress + Live Classes","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":8,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":8,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":8,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":8,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":8,"id":"24","role":"card label","text":"Progress + Live Classes","textPreview":"Progress + Live Classes","textChars":23,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":8,"id":"25","role":"card body: Progress + Live Classes","text":"Progress tracking records body\nmetrics, workouts, nutrition\nlogs, goals, and progress photos.\nLive classes support scheduling,\nparticipant tracking, status\nchanges, and optional streaming\nlinks.","textPreview":"Progress tracking records body | metrics, workouts, nutrition | logs, goals, and progress photos. | Live classes support scheduling, | participant tracking, status | changes, and o","textChars":194,"textLines":7,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":8,"id":"26","role":"card panel: Community + Notifications","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":8,"id":"27","role":"card accent: Community + Notifications","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":8,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":8,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":8,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":8,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":8,"id":"32","role":"card label","text":"Community + Notifications","textPreview":"Community + Notifications","textChars":25,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":8,"id":"33","role":"card body: Community + Notifications","text":"Community posts support media,\nlikes, comments, and pinned\ncontent. Notifications add\nplatform communication for\nreminders, milestones, booking\nchanges, and system updates.","textPreview":"Community posts support media, | likes, comments, and pinned | content. Notifications add | platform communication for | reminders, milestones, booking | changes, and system update","textChars":172,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":8,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":9,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":9,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":9,"id":"4","role":"header","text":"BACKEND DESIGN","textPreview":"BACKEND DESIGN","textChars":14,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":9,"id":"5","role":"header","text":"09 / 16","textPreview":"09 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":9,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":9,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":9,"id":"8","role":"title","text":"Backend implementation depth","textPreview":"Backend implementation depth","textChars":28,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":9,"id":"9","role":"subtitle","text":"The API layer is organized into distinct modules, each backed by domain-specific Mongoose models and route-level business logic.","textPreview":"The API layer is organized into distinct modules, each backed by domain-specific Mongoose models and route-level business logic.","textChars":128,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":9,"id":"10","role":"metric panel: Mongoose models in the domain layer","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":9,"id":"11","role":"metric accent: Mongoose models in the domain layer","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":9,"id":"12","role":"metric value","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":9,"id":"13","role":"metric label","text":"Mongoose models in the domain layer","textPreview":"Mongoose models in the domain layer","textChars":35,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":9,"id":"14","role":"metric note","text":"User, Booking, Attendance, Program, MembershipPlan, NutritionPlan, WorkoutPlan, ProgressTracking, LiveClass, CommunityPost, Notification","textPreview":"User, Booking, Attendance, Program, MembershipPlan, NutritionPlan, WorkoutPlan, ProgressTracking, LiveClass, CommunityPost, Notification","textChars":136,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":9,"id":"15","role":"metric panel: Authentication strategy","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":9,"id":"16","role":"metric accent: Authentication strategy","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":9,"id":"17","role":"metric value","text":"JWT","textPreview":"JWT","textChars":3,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":9,"id":"18","role":"metric label","text":"Authentication strategy","textPreview":"Authentication strategy","textChars":23,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":9,"id":"19","role":"metric note","text":"Token-based auth with protected routes and role-aware access","textPreview":"Token-based auth with protected routes and role-aware access","textChars":60,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":9,"id":"20","role":"metric panel: Payment currency setup","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":9,"id":"21","role":"metric accent: Payment currency setup","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":9,"id":"22","role":"metric value","text":"INR","textPreview":"INR","textChars":3,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":9,"id":"23","role":"metric label","text":"Payment currency setup","textPreview":"Payment currency setup","textChars":22,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":9,"id":"24","role":"metric note","text":"Stripe payment intents configured in Indian Rupees","textPreview":"Stripe payment intents configured in Indian Rupees","textChars":50,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"textbox","slide":9,"id":"25","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":10,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":10,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":10,"id":"4","role":"header","text":"FRONTEND DESIGN","textPreview":"FRONTEND DESIGN","textChars":15,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":10,"id":"5","role":"header","text":"10 / 16","textPreview":"10 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":10,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":10,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":10,"id":"8","role":"title","text":"Frontend routing and experience design","textPreview":"Frontend routing and experience design","textChars":38,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":10,"id":"9","role":"subtitle","text":"The React application is structured around public pages, protected routes, and role-specific dashboard experiences.","textPreview":"The React application is structured around public pages, protected routes, and role-specific dashboard experiences.","textChars":115,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":10,"id":"10","role":"card panel: Public Experience","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":10,"id":"11","role":"card accent: Public Experience","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":10,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":10,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":10,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":10,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":10,"id":"16","role":"card label","text":"Public Experience","textPreview":"Public Experience","textChars":17,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":10,"id":"17","role":"card body: Public Experience","text":"The landing page introduces\nFitZone with animated hero\nsections, plan highlights, center\nselection, and a guided entry\ninto registration or login.","textPreview":"The landing page introduces | FitZone with animated hero | sections, plan highlights, center | selection, and a guided entry | into registration or login.","textChars":146,"textLines":5,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":10,"id":"18","role":"card panel: Protected Navigation","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":10,"id":"19","role":"card accent: Protected Navigation","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":10,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":10,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":10,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":10,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":10,"id":"24","role":"card label","text":"Protected Navigation","textPreview":"Protected Navigation","textChars":20,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":10,"id":"25","role":"card body: Protected Navigation","text":"ProtectedRoute checks token\npresence and allowed roles before\nrendering routes. This separates\npublic navigation from member,\ntrainer, and admin workflows.","textPreview":"ProtectedRoute checks token | presence and allowed roles before | rendering routes. This separates | public navigation from member, | trainer, and admin workflows.","textChars":155,"textLines":5,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":10,"id":"26","role":"card panel: Dashboard Coverage","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":10,"id":"27","role":"card accent: Dashboard Coverage","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":10,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":10,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":10,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":10,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":10,"id":"32","role":"card label","text":"Dashboard Coverage","textPreview":"Dashboard Coverage","textChars":18,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":10,"id":"33","role":"card body: Dashboard Coverage","text":"Admin, member, and trainer\ndashboards are paired with\ndedicated feature screens such as\nprograms, bookings, payments,\nmembership, attendance,\nnutrition, progress, live\nclasses, and community.","textPreview":"Admin, member, and trainer | dashboards are paired with | dedicated feature screens such as | programs, bookings, payments, | membership, attendance, | nutrition, progress, live | ","textChars":191,"textLines":7,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":10,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":11,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":11,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":11,"id":"4","role":"header","text":"DATA MODEL","textPreview":"DATA MODEL","textChars":10,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":11,"id":"5","role":"header","text":"11 / 16","textPreview":"11 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":11,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":11,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":11,"id":"8","role":"title","text":"How the data layer is structured","textPreview":"How the data layer is structured","textChars":32,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":11,"id":"9","role":"subtitle","text":"The MongoDB schema design captures operational records, subscription state, coaching content, and user engagement in separate but connected collections.","textPreview":"The MongoDB schema design captures operational records, subscription state, coaching content, and user engagement in separate but connected collections.","textChars":152,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":11,"id":"10","role":"card panel: User-Centered Relationships","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":11,"id":"11","role":"card accent: User-Centered Relationships","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":11,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":11,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":11,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":11,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":11,"id":"16","role":"card label","text":"User-Centered Relationships","textPreview":"User-Centered Relationships","textChars":27,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":11,"id":"17","role":"card body: User-Centered Relationships","text":"The User model stores role,\ntrainer-member assignment,\nprofile image, and membership\ndetails including linked plan,\ncenter, and active period dates.","textPreview":"The User model stores role, | trainer-member assignment, | profile image, and membership | details including linked plan, | center, and active period dates.","textChars":148,"textLines":5,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":11,"id":"18","role":"card panel: Operational Records","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":11,"id":"19","role":"card accent: Operational Records","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":11,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":11,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":11,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":11,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":11,"id":"24","role":"card label","text":"Operational Records","textPreview":"Operational Records","textChars":19,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":11,"id":"25","role":"card body: Operational Records","text":"Bookings, Attendance,\nMembershipPlan, Program,\nWorkoutPlan, NutritionPlan, and\nProgressTracking represent the\ncore day-to-day data needed to\nrun the gym and guide members.","textPreview":"Bookings, Attendance, | MembershipPlan, Program, | WorkoutPlan, NutritionPlan, and | ProgressTracking represent the | core day-to-day data needed to | run the gym and guide members","textChars":171,"textLines":6,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":11,"id":"26","role":"card panel: Engagement Records","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":11,"id":"27","role":"card accent: Engagement Records","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":11,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":11,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":11,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":11,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":11,"id":"32","role":"card label","text":"Engagement Records","textPreview":"Engagement Records","textChars":18,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":11,"id":"33","role":"card body: Engagement Records","text":"LiveClass, CommunityPost, and\nNotification extend the system\ninto communication,\nparticipation, social\ninteraction, reminders, and\nlong-term member retention.","textPreview":"LiveClass, CommunityPost, and | Notification extend the system | into communication, | participation, social | interaction, reminders, and | long-term member retention.","textChars":158,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":11,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":12,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":12,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":12,"id":"4","role":"header","text":"USER JOURNEY","textPreview":"USER JOURNEY","textChars":12,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":12,"id":"5","role":"header","text":"12 / 16","textPreview":"12 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":12,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":12,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":12,"id":"8","role":"title","text":"End-to-end flow through the platform","textPreview":"End-to-end flow through the platform","textChars":36,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":12,"id":"9","role":"subtitle","text":"A member can move through a complete lifecycle inside the application, from onboarding to recurring engagement.","textPreview":"A member can move through a complete lifecycle inside the application, from onboarding to recurring engagement.","textChars":111,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":12,"id":"10","role":"metric panel: Onboarding entry","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":12,"id":"11","role":"metric accent: Onboarding entry","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":12,"id":"12","role":"metric value","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":12,"id":"13","role":"metric label","text":"Onboarding entry","textPreview":"Onboarding entry","textChars":16,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":12,"id":"14","role":"metric note","text":"Register or login with role-aware access","textPreview":"Register or login with role-aware access","textChars":40,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":12,"id":"15","role":"metric panel: Core member journey actions","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":12,"id":"16","role":"metric accent: Core member journey actions","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":12,"id":"17","role":"metric value","text":"4+","textPreview":"4+","textChars":2,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":12,"id":"18","role":"metric label","text":"Core member journey actions","textPreview":"Core member journey actions","textChars":27,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":12,"id":"19","role":"metric note","text":"Select membership, pay, book trainer, mark attendance","textPreview":"Select membership, pay, book trainer, mark attendance","textChars":53,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":12,"id":"20","role":"metric panel: Retention loops","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":12,"id":"21","role":"metric accent: Retention loops","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":12,"id":"22","role":"metric value","text":"Ongoing","textPreview":"Ongoing","textChars":7,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":12,"id":"23","role":"metric label","text":"Retention loops","textPreview":"Retention loops","textChars":15,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":12,"id":"24","role":"metric note","text":"Track progress, follow plans, join live classes, use community, receive notifications","textPreview":"Track progress, follow plans, join live classes, use community, receive notifications","textChars":85,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"textbox","slide":12,"id":"25","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":13,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":13,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":13,"id":"4","role":"header","text":"IMPLEMENTATION STATUS","textPreview":"IMPLEMENTATION STATUS","textChars":21,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":13,"id":"5","role":"header","text":"13 / 16","textPreview":"13 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":13,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":13,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":13,"id":"8","role":"title","text":"Fixes and improvements already completed","textPreview":"Fixes and improvements already completed","textChars":40,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":13,"id":"9","role":"subtitle","text":"The project documentation shows active cleanup work that improved maintainability, correctness, and demo readiness.","textPreview":"The project documentation shows active cleanup work that improved maintainability, correctness, and demo readiness.","textChars":115,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":13,"id":"10","role":"card panel: Centralized API Configuration","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":13,"id":"11","role":"card accent: Centralized API Configuration","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":13,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":13,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":13,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":13,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":13,"id":"16","role":"card label","text":"Centralized API Configuration","textPreview":"Centralized API Configuration","textChars":29,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":13,"id":"17","role":"card body: Centralized API Configuration","text":"A dedicated apiConfig.js file was\nintroduced to remove scattered\nlocalhost URLs and define a\nshared endpoint layer for the\nfrontend.","textPreview":"A dedicated apiConfig.js file was | introduced to remove scattered | localhost URLs and define a | shared endpoint layer for the | frontend.","textChars":132,"textLines":5,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":13,"id":"18","role":"card panel: Missing Module Completion","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":13,"id":"19","role":"card accent: Missing Module Completion","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":13,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":13,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":13,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":13,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":13,"id":"24","role":"card label","text":"Missing Module Completion","textPreview":"Missing Module Completion","textChars":25,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":13,"id":"25","role":"card body: Missing Module Completion","text":"Nutrition, Progress, and\nMembership pages were created or\ncompleted, expanding the feature\nsurface and reducing broken\nnavigation gaps.","textPreview":"Nutrition, Progress, and | Membership pages were created or | completed, expanding the feature | surface and reducing broken | navigation gaps.","textChars":135,"textLines":5,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":13,"id":"26","role":"card panel: Bug Resolution","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":13,"id":"27","role":"card accent: Bug Resolution","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":13,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":13,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":13,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":13,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":13,"id":"32","role":"card label","text":"Bug Resolution","textPreview":"Bug Resolution","textChars":14,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":13,"id":"33","role":"card body: Bug Resolution","text":"Attendance QR issues, booking\nendpoint issues, endpoint import\nproblems, and admin role\nregistration visibility were\ndocumented as fixed in the\nproject notes.","textPreview":"Attendance QR issues, booking | endpoint issues, endpoint import | problems, and admin role | registration visibility were | documented as fixed in the | project notes.","textChars":158,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":13,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":14,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":14,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":14,"id":"4","role":"header","text":"SECURITY + SETUP","textPreview":"SECURITY + SETUP","textChars":16,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":14,"id":"5","role":"header","text":"14 / 16","textPreview":"14 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":14,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":14,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":14,"id":"8","role":"title","text":"Security, integrations, and environment readiness","textPreview":"Security, integrations, and environment readiness","textChars":49,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":14,"id":"9","role":"subtitle","text":"The project includes multiple production-style considerations that go beyond visual features.","textPreview":"The project includes multiple production-style considerations that go beyond visual features.","textChars":93,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":14,"id":"10","role":"card panel: Authentication + Access","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":14,"id":"11","role":"card accent: Authentication + Access","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":14,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":14,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":14,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":14,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":14,"id":"16","role":"card label","text":"Authentication + Access","textPreview":"Authentication + Access","textChars":23,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":14,"id":"17","role":"card body: Authentication + Access","text":"Passwords are hashed with bcrypt,\nJWT tokens secure sessions, and\nrole checks help restrict admin,\ntrainer, and member access across\nscreens and backend actions.","textPreview":"Passwords are hashed with bcrypt, | JWT tokens secure sessions, and | role checks help restrict admin, | trainer, and member access across | screens and backend actions.","textChars":161,"textLines":5,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":14,"id":"18","role":"card panel: Service Integrations","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":14,"id":"19","role":"card accent: Service Integrations","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":14,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":14,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":14,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":14,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":14,"id":"24","role":"card label","text":"Service Integrations","textPreview":"Service Integrations","textChars":20,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":14,"id":"25","role":"card body: Service Integrations","text":"Stripe handles payment intents\nand confirmation, Cloudinary\nsupports media handling, QR\ngeneration supports attendance,\nand webhook support is prepared\nfor payment events.","textPreview":"Stripe handles payment intents | and confirmation, Cloudinary | supports media handling, QR | generation supports attendance, | and webhook support is prepared | for payment events","textChars":171,"textLines":6,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":14,"id":"26","role":"card panel: Deployment Inputs","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":14,"id":"27","role":"card accent: Deployment Inputs","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":14,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":14,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":14,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":14,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":14,"id":"32","role":"card label","text":"Deployment Inputs","textPreview":"Deployment Inputs","textChars":17,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":14,"id":"33","role":"card body: Deployment Inputs","text":"Backend and frontend rely on\nenvironment variables for\ndatabase connection, JWT secret,\nStripe keys, Cloudinary\ncredentials, frontend URL, and\nAPI base configuration.","textPreview":"Backend and frontend rely on | environment variables for | database connection, JWT secret, | Stripe keys, Cloudinary | credentials, frontend URL, and | API base configuration.","textChars":166,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":14,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":15,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":15,"id":"3","role":"metrics contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":15,"id":"4","role":"header","text":"EVALUATION","textPreview":"EVALUATION","textChars":10,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":15,"id":"5","role":"header","text":"15 / 16","textPreview":"15 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":15,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":15,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":15,"id":"8","role":"title","text":"Strengths, limitations, and next-step opportunities","textPreview":"Strengths, limitations, and next-step opportunities","textChars":51,"textLines":1,"bbox":[64,86,700,142]}
+{"kind":"textbox","slide":15,"id":"9","role":"subtitle","text":"The project already shows strong breadth, while also leaving clear paths for further enhancement and production hardening.","textPreview":"The project already shows strong breadth, while also leaving clear paths for further enhancement and production hardening.","textChars":122,"textLines":1,"bbox":[66,234,700,70]}
+{"kind":"shape","slide":15,"id":"10","role":"metric panel: Wide feature breadth across operations and engagement","shapeType":"roundRect","bbox":[92,404,330,174]}
+{"kind":"shape","slide":15,"id":"11","role":"metric accent: Wide feature breadth across operations and engagement","shapeType":"rect","bbox":[92,404,330,7]}
+{"kind":"textbox","slide":15,"id":"12","role":"metric value","text":"Strength","textPreview":"Strength","textChars":8,"textLines":1,"bbox":[114,428,286,54]}
+{"kind":"textbox","slide":15,"id":"13","role":"metric label","text":"Wide feature breadth across operations and engagement","textPreview":"Wide feature breadth across operations and engagement","textChars":53,"textLines":1,"bbox":[116,486,282,38]}
+{"kind":"textbox","slide":15,"id":"14","role":"metric note","text":"Shows multi-module full-stack implementation rather than isolated CRUD pages","textPreview":"Shows multi-module full-stack implementation rather than isolated CRUD pages","textChars":76,"textLines":1,"bbox":[116,536,282,22]}
+{"kind":"shape","slide":15,"id":"15","role":"metric panel: Readiness depends on environment setup and seeded data","shapeType":"roundRect","bbox":[462,404,330,174]}
+{"kind":"shape","slide":15,"id":"16","role":"metric accent: Readiness depends on environment setup and seeded data","shapeType":"rect","bbox":[462,404,330,7]}
+{"kind":"textbox","slide":15,"id":"17","role":"metric value","text":"Current Limit","textPreview":"Current Limit","textChars":13,"textLines":1,"bbox":[484,428,286,54]}
+{"kind":"textbox","slide":15,"id":"18","role":"metric label","text":"Readiness depends on environment setup and seeded data","textPreview":"Readiness depends on environment setup and seeded data","textChars":54,"textLines":1,"bbox":[486,486,282,38]}
+{"kind":"textbox","slide":15,"id":"19","role":"metric note","text":"MongoDB, service keys, and end-to-end testing are required for full demo flow","textPreview":"MongoDB, service keys, and end-to-end testing are required for full demo flow","textChars":77,"textLines":1,"bbox":[486,536,282,22]}
+{"kind":"shape","slide":15,"id":"20","role":"metric panel: Analytics, mobile UX, real-time updates, and deployment","shapeType":"roundRect","bbox":[832,404,330,174]}
+{"kind":"shape","slide":15,"id":"21","role":"metric accent: Analytics, mobile UX, real-time updates, and deployment","shapeType":"rect","bbox":[832,404,330,7]}
+{"kind":"textbox","slide":15,"id":"22","role":"metric value","text":"Roadmap","textPreview":"Roadmap","textChars":7,"textLines":1,"bbox":[854,428,286,54]}
+{"kind":"textbox","slide":15,"id":"23","role":"metric label","text":"Analytics, mobile UX, real-time updates, and deployment","textPreview":"Analytics, mobile UX, real-time updates, and deployment","textChars":55,"textLines":1,"bbox":[856,486,282,38]}
+{"kind":"textbox","slide":15,"id":"24","role":"metric note","text":"Natural next steps after stabilizing testing and production hosting","textPreview":"Natural next steps after stabilizing testing and production hosting","textChars":67,"textLines":1,"bbox":[856,536,282,22]}
+{"kind":"textbox","slide":15,"id":"25","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}
+{"kind":"image","slide":16,"id":"2","role":"fallback art plate","path":"fallback-data-url","bbox":[0,0,1280,720]}
+{"kind":"shape","slide":16,"id":"3","role":"content contrast overlay","shapeType":"rect","bbox":[0,0,1280,720]}
+{"kind":"textbox","slide":16,"id":"4","role":"header","text":"CLOSING","textPreview":"CLOSING","textChars":7,"textLines":1,"bbox":[64,34,430,24]}
+{"kind":"textbox","slide":16,"id":"5","role":"header","text":"16 / 16","textPreview":"16 / 16","textChars":7,"textLines":1,"bbox":[1114,34,104,24]}
+{"kind":"shape","slide":16,"id":"6","role":"header rule","shapeType":"rect","bbox":[64,64,1152,2]}
+{"kind":"shape","slide":16,"id":"7","role":"header marker","shapeType":"ellipse","bbox":[57,57,16,16]}
+{"kind":"textbox","slide":16,"id":"8","role":"title","text":"Project conclusion and expo talking points","textPreview":"Project conclusion and expo talking points","textChars":42,"textLines":1,"bbox":[64,86,760,142]}
+{"kind":"textbox","slide":16,"id":"9","role":"subtitle","text":"This MERN project demonstrates how a fitness business can be digitized across management, coaching, payments, and community experiences in a single full-stack system.","textPreview":"This MERN project demonstrates how a fitness business can be digitized across management, coaching, payments, and community experiences in a single full-stack system.","textChars":166,"textLines":1,"bbox":[66,234,720,70]}
+{"kind":"shape","slide":16,"id":"10","role":"card panel: Why It Stands Out","shapeType":"roundRect","bbox":[84,380,355.3333333333333,234]}
+{"kind":"shape","slide":16,"id":"11","role":"card accent: Why It Stands Out","shapeType":"rect","bbox":[84,380,8,234]}
+{"kind":"shape","slide":16,"id":"12","role":"icon badge","shapeType":"ellipse","bbox":[106,404,54,54]}
+{"kind":"shape","slide":16,"id":"13","role":"icon glyph","shapeType":"rect","bbox":[122,433,6,12]}
+{"kind":"shape","slide":16,"id":"14","role":"icon glyph","shapeType":"rect","bbox":[131,425,6,20]}
+{"kind":"shape","slide":16,"id":"15","role":"icon glyph","shapeType":"rect","bbox":[140,418,6,27]}
+{"kind":"textbox","slide":16,"id":"16","role":"card label","text":"Why It Stands Out","textPreview":"Why It Stands Out","textChars":17,"textLines":1,"bbox":[172,402,247.33333333333331,28]}
+{"kind":"textbox","slide":16,"id":"17","role":"card body: Why It Stands Out","text":"The platform combines technical\nintegration, role-aware design,\nand broad functional coverage,\nmaking it a strong project for\nboth review and public\ndemonstration.","textPreview":"The platform combines technical | integration, role-aware design, | and broad functional coverage, | making it a strong project for | both review and public | demonstration.","textChars":163,"textLines":6,"bbox":[108,466,307.3333333333333,126]}
+{"kind":"shape","slide":16,"id":"18","role":"card panel: Recommended Demo Flow","shapeType":"roundRect","bbox":[463.3333333333333,380,355.3333333333333,234]}
+{"kind":"shape","slide":16,"id":"19","role":"card accent: Recommended Demo Flow","shapeType":"rect","bbox":[463.3333333333333,380,8,234]}
+{"kind":"shape","slide":16,"id":"20","role":"icon badge","shapeType":"ellipse","bbox":[485.3333333333333,404,54,54]}
+{"kind":"shape","slide":16,"id":"21","role":"icon glyph","shapeType":"ellipse","bbox":[498.3333333333333,422,10,10]}
+{"kind":"shape","slide":16,"id":"22","role":"icon glyph","shapeType":"ellipse","bbox":[516.3333333333333,431,10,10]}
+{"kind":"shape","slide":16,"id":"23","role":"icon glyph","shapeType":"rect","bbox":[507.3333333333333,429,19,3]}
+{"kind":"textbox","slide":16,"id":"24","role":"card label","text":"Recommended Demo Flow","textPreview":"Recommended Demo Flow","textChars":21,"textLines":1,"bbox":[551.3333333333333,402,247.33333333333331,28]}
+{"kind":"textbox","slide":16,"id":"25","role":"card body: Recommended Demo Flow","text":"Show registration or login,\nnavigate to dashboards, open\nmembership and payment flow,\ncreate a booking, display\nattendance QR, and finish with\nprogress or community features.","textPreview":"Show registration or login, | navigate to dashboards, open | membership and payment flow, | create a booking, display | attendance QR, and finish with | progress or community featu","textChars":174,"textLines":6,"bbox":[487.3333333333333,466,307.3333333333333,126]}
+{"kind":"shape","slide":16,"id":"26","role":"card panel: Discussion Starters","shapeType":"roundRect","bbox":[842.6666666666666,380,355.3333333333333,234]}
+{"kind":"shape","slide":16,"id":"27","role":"card accent: Discussion Starters","shapeType":"rect","bbox":[842.6666666666666,380,8,234]}
+{"kind":"shape","slide":16,"id":"28","role":"icon badge","shapeType":"ellipse","bbox":[864.6666666666666,404,54,54]}
+{"kind":"shape","slide":16,"id":"29","role":"icon glyph","shapeType":"roundRect","bbox":[877.6666666666666,419,26,13]}
+{"kind":"shape","slide":16,"id":"30","role":"icon glyph","shapeType":"roundRect","bbox":[882.6666666666666,428,26,13]}
+{"kind":"shape","slide":16,"id":"31","role":"icon glyph","shapeType":"roundRect","bbox":[887.6666666666666,437,20,10]}
+{"kind":"textbox","slide":16,"id":"32","role":"card label","text":"Discussion Starters","textPreview":"Discussion Starters","textChars":19,"textLines":1,"bbox":[930.6666666666666,402,247.33333333333331,28]}
+{"kind":"textbox","slide":16,"id":"33","role":"card body: Discussion Starters","text":"Possible questions to address\ninclude scalability, security\nupgrades, production deployment,\nmobile support, trainer\nworkflows, and future AI-driven\npersonalization.","textPreview":"Possible questions to address | include scalability, security | upgrades, production deployment, | mobile support, trainer | workflows, and future AI-driven | personalization.","textChars":165,"textLines":6,"bbox":[866.6666666666666,466,307.3333333333333,126]}
+{"kind":"textbox","slide":16,"id":"34","role":"caption","text":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textPreview":"All visible text, structure, and presentation content in this deck are editable PowerPoint objects.","textChars":99,"textLines":1,"bbox":[64,674,980,22]}

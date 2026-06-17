@@ -1,0 +1,424 @@
+.payments-page {
+  --payments-bg: linear-gradient(180deg, #f5f7fb 0%, #edf2f7 100%);
+  --payments-surface: #ffffff;
+  --payments-border: rgba(24, 39, 75, 0.12);
+  --payments-text: #1f2937;
+  --payments-muted: #64748b;
+  --payments-accent: #667eea;
+  --payments-accent-dark: #764ba2;
+  --payments-shadow: 0 20px 50px rgba(15, 23, 42, 0.12);
+  padding: 1.5rem;
+  background: var(--payments-bg);
+}
+
+.payments-hero,
+.current-membership-banner,
+.payment-container,
+.payments-side-panel,
+.payment-form-card,
+.plan-card,
+.payments-highlight-card {
+  background: var(--payments-surface);
+  border: 1px solid var(--payments-border);
+  border-radius: 24px;
+  box-shadow: var(--payments-shadow);
+}
+
+.payments-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(280px, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.payments-hero-copy {
+  padding: 2rem;
+}
+
+.payments-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  background: rgba(37, 99, 235, 0.1);
+  color: var(--payments-accent-dark);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.payments-hero-copy h1 {
+  margin: 1rem 0 0.8rem;
+  color: var(--payments-text);
+  font-size: clamp(2rem, 3vw, 3rem);
+  line-height: 1.08;
+}
+
+.payments-hero-copy p,
+.current-membership-banner p,
+.payment-form-card p,
+.center-address,
+.center-highlights,
+.upi-panel p,
+.payments-side-panel li,
+.plan-savings {
+  color: var(--payments-muted);
+  line-height: 1.65;
+}
+
+.payments-highlights {
+  display: grid;
+  gap: 1rem;
+  padding: 1.25rem;
+}
+
+.payments-highlight-card {
+  display: flex;
+  gap: 0.9rem;
+  padding: 1rem;
+  align-items: flex-start;
+}
+
+.payments-highlight-card svg {
+  color: var(--payments-accent);
+  font-size: 1.2rem;
+  margin-top: 0.2rem;
+}
+
+.payments-highlight-card strong,
+.current-membership-banner h2,
+.payment-summary h3,
+.payment-form-card h3,
+.payments-side-panel h3,
+.plan-card h3,
+.center-card h4 {
+  color: var(--payments-text);
+}
+
+.current-membership-banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.membership-link-btn,
+.select-plan-btn,
+.pay-btn,
+.back-btn,
+.method-option {
+  border: none;
+  border-radius: 14px;
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+.membership-link-btn,
+.select-plan-btn,
+.pay-btn,
+.back-btn {
+  padding: 0.95rem 1.5rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-weight: 800;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.membership-link-btn:hover,
+.select-plan-btn:hover,
+.pay-btn:hover,
+.back-btn:hover {
+  background: linear-gradient(135deg, #5568d3 0%, #6a3f92 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 15px 35px rgba(102, 126, 234, 0.45);
+}
+
+.membership-link-btn.secondary {
+  width: 100%;
+}
+
+.payments-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.85fr);
+  gap: 1.5rem;
+}
+
+.plans-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.plan-card {
+  padding: 1.25rem;
+}
+
+.plan-card.popular {
+  border-color: rgba(37, 99, 235, 0.22);
+  box-shadow: 0 20px 42px rgba(37, 99, 235, 0.12);
+}
+
+.plan-topline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.8rem;
+}
+
+.plan-category,
+.plan-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-radius: 999px;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.plan-category {
+  background: #eff6ff;
+  color: var(--payments-accent-dark);
+}
+
+.plan-badge {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+
+.plan-price {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
+  margin: 1rem 0 0.6rem;
+}
+
+.currency {
+  color: var(--payments-muted);
+  font-weight: 700;
+}
+
+.amount {
+  color: var(--payments-text);
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+.period {
+  color: var(--payments-muted);
+}
+
+.plan-features ul,
+.upi-panel ul,
+.payments-side-panel ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.plan-features ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.plan-features li {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  color: var(--payments-muted);
+}
+
+.plan-features svg,
+.upi-panel li::before,
+.payments-side-panel li::before {
+  color: #16a34a;
+}
+
+.payments-side-panel {
+  padding: 1.4rem;
+  height: fit-content;
+}
+
+.payments-side-panel ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.payments-side-panel li {
+  position: relative;
+  padding-left: 1.2rem;
+}
+
+.payments-side-panel li::before,
+.upi-panel li::before {
+  content: '�';
+  position: absolute;
+  left: 0;
+}
+
+.payment-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.payment-summary {
+  margin-bottom: 1.5rem;
+}
+
+.center-selection-section {
+  margin: 1.5rem 0 0.75rem;
+}
+
+.center-selection {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.center-card {
+  text-align: left;
+  border: 1px solid #dbe3ef;
+  border-radius: 18px;
+  padding: 1rem;
+  background: #f8fbff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.center-card.active,
+.center-card:hover {
+  border-color: var(--payments-accent);
+  box-shadow: 0 16px 28px rgba(37, 99, 235, 0.1);
+}
+
+.center-price,
+.summary-row.total {
+  color: var(--payments-accent-dark);
+  font-weight: 700;
+}
+
+.summary-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.75rem 0;
+  color: var(--payments-muted);
+}
+
+.payment-method-toggle {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 1.25rem;
+}
+
+.method-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.85rem 1rem;
+  background: #f8fafc;
+  color: var(--payments-muted);
+  border: 1px solid #dbe3ef;
+}
+
+.method-option.active,
+.method-option:hover {
+  border-color: var(--payments-accent);
+  background: #eff6ff;
+  color: var(--payments-accent-dark);
+}
+
+.payment-form-card,
+.upi-panel {
+  padding: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.form-group {
+  margin-top: 1rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--payments-text);
+  font-weight: 700;
+}
+
+.card-element {
+  padding: 1rem;
+  border: 1px solid #dbe3ef;
+  border-radius: 14px;
+  background: #fff;
+}
+
+.upi-details {
+  display: grid;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+  color: var(--payments-text);
+}
+
+.qr-code-image,
+.qr-code-placeholder {
+  width: 100%;
+  max-width: 320px;
+  margin: 1rem auto 0;
+  display: block;
+  border-radius: 18px;
+}
+
+.qr-code-placeholder {
+  min-height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1.5rem;
+  border: 2px dashed #cbd5e1;
+  background: #f0f9ff;
+  color: #0c4a6e;
+}
+
+.payment-error,
+.payment-empty,
+.loading {
+  padding: 1.25rem;
+  border-radius: 18px;
+  background: #fff;
+  border: 1px solid var(--payments-border);
+  color: var(--payments-muted);
+  text-align: center;
+}
+
+@media (max-width: 960px) {
+  .payments-page {
+    padding: 1rem;
+  }
+
+  .payments-hero,
+  .payments-layout,
+  .current-membership-banner {
+    grid-template-columns: 1fr;
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

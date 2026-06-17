@@ -1,0 +1,471 @@
+.trainer-dashboard {
+  --trainer-bg: linear-gradient(180deg, #f6f8fc 0%, #eef3f7 100%);
+  --trainer-surface: #ffffff;
+  --trainer-border: rgba(15, 23, 42, 0.08);
+  --trainer-text: #162033;
+  --trainer-muted: #66758b;
+  --trainer-accent: #0f766e;
+  --trainer-accent-dark: #115e59;
+  --trainer-sidebar: #f8fafc;
+  --trainer-sidebar-soft: #ffffff;
+  --trainer-shadow: 0 22px 48px rgba(15, 23, 42, 0.08);
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 290px minmax(0, 1fr);
+  background: var(--trainer-bg);
+}
+
+.trainer-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  background:
+    radial-gradient(circle at top right, rgba(20, 184, 166, 0.16), transparent 30%),
+    linear-gradient(180deg, var(--trainer-sidebar) 0%, var(--trainer-sidebar-soft) 100%);
+  color: var(--trainer-text);
+}
+
+.trainer-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+.trainer-brand-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #14b8a6, #0f766e);
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.trainer-brand h2 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.trainer-brand p {
+  margin: 0.2rem 0 0;
+  color: var(--trainer-muted);
+  font-size: 0.92rem;
+}
+
+.trainer-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.trainer-nav-link {
+  color: var(--trainer-text);
+  text-decoration: none;
+  padding: 0.9rem 1rem;
+  border-radius: 15px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.trainer-nav-link:hover,
+.trainer-nav-link.active {
+  background: rgba(99, 102, 241, 0.06);
+  color: var(--trainer-accent);
+}
+
+.trainer-logout-btn {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  border: none;
+  border-radius: 14px;
+  padding: 0.95rem 1rem;
+  background: rgba(239, 68, 68, 0.08);
+  color: var(--trainer-text);
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.trainer-logout-btn:hover {
+  background: rgba(239, 68, 68, 0.12);
+}
+
+.trainer-content {
+  padding: 1.5rem;
+}
+
+.trainer-overview,
+.trainer-page-shell {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.trainer-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(300px, 0.85fr);
+  gap: 1.5rem;
+}
+
+.trainer-hero-copy,
+.trainer-highlight-card,
+.trainer-stat-card,
+.trainer-panel,
+.trainer-detail-card,
+.trainer-empty-state,
+.trainer-roster-strip {
+  background: var(--trainer-surface);
+  border: 1px solid var(--trainer-border);
+  border-radius: 24px;
+  box-shadow: var(--trainer-shadow);
+}
+
+.trainer-hero-copy {
+  padding: 2rem;
+  background:
+    radial-gradient(circle at top right, rgba(20, 184, 166, 0.12), transparent 35%),
+    var(--trainer-surface);
+}
+
+.trainer-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.38rem 0.8rem;
+  border-radius: 999px;
+  background: rgba(15, 118, 110, 0.1);
+  color: var(--trainer-accent-dark);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.trainer-eyebrow.subtle {
+  margin-bottom: 0.65rem;
+}
+
+.trainer-hero-copy h1 {
+  margin: 1rem 0 0.85rem;
+  color: var(--trainer-text);
+  font-size: clamp(2rem, 3vw, 3rem);
+  line-height: 1.08;
+}
+
+.trainer-hero-copy p,
+.trainer-highlight-card p,
+.trainer-stat-card p,
+.panel-heading p,
+.trainer-quick-card span,
+.trainer-activity-item span,
+.trainer-detail-copy,
+.trainer-section-header p,
+.trainer-roster-item span,
+.trainer-empty-state p {
+  color: var(--trainer-muted);
+  line-height: 1.65;
+}
+
+.trainer-highlight-card {
+  padding: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.highlight-badge,
+.trainer-quick-icon,
+.trainer-member-avatar,
+.roster-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.highlight-badge {
+  width: 54px;
+  height: 54px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #14b8a6, #0f766e);
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.trainer-highlight-card h3,
+.panel-heading h3,
+.trainer-section-header h2,
+.trainer-detail-card h3,
+.trainer-empty-state h3 {
+  margin: 0 0 0.5rem;
+  color: var(--trainer-text);
+}
+
+.trainer-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.trainer-stat-card {
+  padding: 1.5rem;
+}
+
+.trainer-stat-label {
+  display: block;
+  margin-bottom: 0.85rem;
+  color: var(--trainer-muted);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.trainer-stat-card strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--trainer-text);
+  font-size: 2rem;
+  line-height: 1.05;
+}
+
+.trainer-panels {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(290px, 0.85fr);
+  gap: 1.5rem;
+}
+
+.trainer-panel,
+.trainer-roster-strip,
+.trainer-empty-state {
+  padding: 1.5rem;
+}
+
+.trainer-quick-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.95rem;
+}
+
+.trainer-quick-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6rem;
+  padding: 1rem;
+  border: 1px solid rgba(15, 118, 110, 0.14);
+  border-radius: 18px;
+  background: linear-gradient(180deg, #f8fffe 0%, #f3fbfa 100%);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.trainer-quick-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(15, 118, 110, 0.28);
+  box-shadow: 0 16px 28px rgba(15, 118, 110, 0.08);
+}
+
+.trainer-quick-icon {
+  width: 42px;
+  height: 42px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--trainer-accent), var(--trainer-accent-dark));
+  color: #fff;
+  font-size: 1rem;
+}
+
+.trainer-quick-card strong,
+.trainer-activity-item strong,
+.trainer-roster-item strong {
+  color: var(--trainer-text);
+}
+
+.trainer-activity-list,
+.trainer-roster-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.trainer-activity-item,
+.trainer-roster-item {
+  display: flex;
+  gap: 0.8rem;
+  padding: 1rem;
+  border-radius: 18px;
+  background: #f8fafc;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+}
+
+.trainer-activity-item {
+  flex-direction: column;
+}
+
+.trainer-section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem;
+}
+
+.trainer-section-header p,
+.panel-heading p {
+  margin: 0;
+}
+
+.trainer-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.trainer-detail-card {
+  padding: 1.35rem;
+}
+
+.trainer-detail-topline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.detail-date {
+  color: var(--trainer-muted);
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+.trainer-status,
+.trainer-member-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.36rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.status-pending {
+  background: rgba(245, 158, 11, 0.16);
+  color: #b45309;
+}
+
+.status-confirmed,
+.trainer-member-badge.active {
+  background: rgba(16, 185, 129, 0.16);
+  color: #047857;
+}
+
+.status-completed {
+  background: rgba(59, 130, 246, 0.16);
+  color: #1d4ed8;
+}
+
+.status-cancelled,
+.trainer-member-badge.inactive {
+  background: rgba(239, 68, 68, 0.14);
+  color: #b91c1c;
+}
+
+.trainer-meta-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  margin-top: 1rem;
+}
+
+.trainer-meta-list span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  color: var(--trainer-text);
+  font-weight: 500;
+}
+
+.member-card {
+  display: flex;
+  gap: 1rem;
+}
+
+.trainer-member-avatar,
+.roster-mark {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #0f766e, #14b8a6);
+  color: #fff;
+  font-weight: 800;
+}
+
+.trainer-member-body {
+  flex: 1;
+}
+
+.trainer-empty-state {
+  text-align: center;
+}
+
+.trainer-roster-item {
+  align-items: center;
+}
+
+.trainer-roster-item div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+@media (max-width: 1120px) {
+  .trainer-dashboard {
+    grid-template-columns: 1fr;
+  }
+
+  .trainer-nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .trainer-logout-btn {
+    margin-top: 0;
+    width: fit-content;
+  }
+
+  .trainer-stats-grid,
+  .trainer-hero,
+  .trainer-panels {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 720px) {
+  .trainer-sidebar,
+  .trainer-content {
+    padding: 1rem;
+  }
+
+  .trainer-quick-grid,
+  .trainer-card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .trainer-detail-topline,
+  .trainer-section-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .member-card {
+    flex-direction: column;
+  }
+}
